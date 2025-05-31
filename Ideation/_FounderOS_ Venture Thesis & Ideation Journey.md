@@ -1,4 +1,4 @@
-# "FounderOS / CompanyOS"  Venture Thesis & Ideation Journey
+# "FounderOS / <SaaS-OS>"  Venture Thesis & Ideation Journey
 
 ## Executive Summary
 

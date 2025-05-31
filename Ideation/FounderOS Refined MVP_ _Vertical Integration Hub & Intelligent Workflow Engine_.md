@@ -1,4 +1,4 @@
-# FounderOS/CompanyOS Refined MVP: "Vertical Integration Hub & Intelligent Workflow Engine"
+# FounderOS/<SaaS-OS> Refined MVP: "Vertical Integration Hub & Intelligent Workflow Engine"
 
 ## I. Overarching Principle & Core Rationale
 
@@ -21,7 +21,7 @@ Previous ideation exercises explored a "Phase 0: Data Fabric \- Developer Previe
 * **Rationale for this Clarification:**  
   * **Focus & De-risking:** Directly launching a vertical-specific solution with clear "Killer Workflows" is deemed a more focused, de-risked approach with a faster path to market validation and revenue compared to attempting to first build and gain traction with a generic, unopinionated developer BaaS.  
   * **Intentional Developer Offering (Embedded):** The developer offering (API access) will be an *integral part* of this Vertical Integration Hub, providing programmatic access to the valuable, unified data and workflow engine created *for that specific vertical*. This makes the API offering more compelling and context-rich from day one, rather than a speculative, standalone utility.  
-  * **Iterative Path to Broader Platform:** Success with this vertical-focused MVP, including its embedded developer API, will inform the potential future evolution towards a more generalized "CompanyOS Data Fabric" (the broader platform vision). However, the starting point is a specific, valuable solution, not a generic platform.
+  * **Iterative Path to Broader Platform:** Success with this vertical-focused MVP, including its embedded developer API, will inform the potential future evolution towards a more generalized "<SaaS-OS> Data Fabric" (the broader platform vision). However, the starting point is a specific, valuable solution, not a generic platform.
 
 All subsequent sections of this document define the components and strategy for this vertical-first MVP.
 
@@ -198,4 +198,4 @@ The MVP will be an intelligent SaaS aggregation and orchestration layer, specifi
 
 ---
 
-This refined MVP strategy provides a robust, focused, and de-risked approach. It prioritizes delivering tangible value to a specific audience quickly, leveraging AI pragmatically, and building a strong foundation from which the more ambitious, long-term "CompanyOS" vision can be pursued, always guided by validated market needs and customer success. The explicit disambiguation of previous "Phase 0" concepts ensures clarity on this vertical-first path.  
+This refined MVP strategy provides a robust, focused, and de-risked approach. It prioritizes delivering tangible value to a specific audience quickly, leveraging AI pragmatically, and building a strong foundation from which the more ambitious, long-term "<SaaS-OS>" vision can be pursued, always guided by validated market needs and customer success. The explicit disambiguation of previous "Phase 0" concepts ensures clarity on this vertical-first path.  

@@ -2,11 +2,11 @@ Okay, I've reviewed our entire conversation and will now output the revised and 
 
 ---
 
-**Project "FounderOS/CompanyOS": Research Context Note for Beachhead Vertical Identification**
+**Project "FounderOS/<SaaS-OS>": Research Context Note for Beachhead Vertical Identification**
 
 **I. Overarching Project Vision & Core Problem Addressed:**
 
-"FounderOS/CompanyOS" (codename) aims to be an AI-native business meta-platform, fundamentally shifting how businesses operate with software. The long-term vision is an OS-like operational fabric characterized by:
+"FounderOS/<SaaS-OS>" (codename) aims to be an AI-native business meta-platform, fundamentally shifting how businesses operate with software. The long-term vision is an OS-like operational fabric characterized by:
 
 1.  A **Unified Intelligent Data Layer** (powered by an internal, evolving Universal Business Object Model - UBOM) to break down SaaS data silos and provide a common semantic understanding of core business entities.
 2.  **AI as the Primary Interaction & Orchestration Engine**, moving beyond rigid UIs to enable users to interact with their business data and processes through natural language, intelligent agents, and dynamically generated, context-aware interfaces.
