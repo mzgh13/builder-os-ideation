@@ -366,6 +366,11 @@ This pillar aims to create unique, memorable, and practical learning experiences
     *   **Functionality:** Simulates interactions with LLM-generated personas to gauge resonance and identify objections.
     *   **Value:** "Fail faster," refine ideas, surface blind spots. Clearly messaged as an *aid* to, not replacement for, real research.
 
+5.  **LLM Investor Pitch & Thesis Stress-Testing:**
+    *   **Purpose:** To provide founders / builders, especially those on the VC-track, with a sophisticated way to stress-test their venture thesis and refine their investor pitches. This acts as a form of ideation validation, similar to seeking customer feedback, by simulating critical investor scrutiny.
+    *   **Functionality:** Users can input their core venture thesis, key pitch elements, or even full pitch decks. The system would utilize capable LLM thinking models, potentially configured with various "investor personas" (e.g., early-stage VC, growth equity investor, skeptical domain expert), to analyze the pitch, ask challenging questions, identify logical fallacies or weaknesses in the argument, and provide feedback on clarity, persuasiveness, and potential blind spots.
+    *   **Value:** Offers a scalable, on-demand, and confidential environment for founders to iteratively practice, receive critical feedback, and significantly strengthen their venture narrative and pitch delivery before engaging with actual investors. Helps anticipate tough questions and build resilience.
+
 ### C. Community & Network: Fostering Connection, Collaboration & Opportunity
 
 This pillar focuses on building a vibrant, supportive, and valuable network.
