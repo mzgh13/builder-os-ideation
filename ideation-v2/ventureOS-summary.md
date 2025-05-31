@@ -45,7 +45,7 @@
 ### C. The Strategic Pivot to "VentureOS" / "BuilderOS"
 *   **Rationale:** To de-risk and find a more tractable path to market, the focus shifted from a universal solution to a targeted one: **an operational launchpad and intelligent co-pilot for new and micro-ventures.**
 *   **Key Advantages of this Pivot:**
-    *   **Greenfield Environment Focus (for MVP):** Initially, provisioning new SaaS instances (or guiding their setup) massively simplifies integration, UBOM definition (it becomes an internal, controlled model), and sync logic (cleaner APIs, fewer legacy issues, controlled configuration). This focus on new setups is primarily an MVP convenience to manage initial complexity and de-risk launch. The long-term vision explicitly includes supporting retrofit scenarios, allowing businesses to connect existing SaaS instances, particularly for those SaaS tools without extensive customization or overly complex custom field structures (e.g., "bring your own instance").
+    *   **Greenfield Environment Focus (for an initial phase):** The thinking is that initially, provisioning new SaaS instances (or guiding their setup) would massively simplify integration, UBOM definition (it becomes an internal, controlled model), and sync logic (cleaner APIs, fewer legacy issues, controlled configuration). This focus on new setups is seen as an initial phase convenience to manage complexity and de-risk a first launch. The long-term vision explicitly includes supporting retrofit scenarios, allowing businesses to connect existing SaaS instances, particularly for those SaaS tools without extensive customization or overly complex custom field structures (e.g., "bring your own instance").
     *   **Targeted Value Proposition:** Directly addresses the acute pains of new founders: tool overwhelm, setup complexity, lack of early operational visibility.
     *   **Reduced Technical Risk:** Initial focus on read-only data aggregation via official APIs, with bi-directional sync as a future, selective evolution.
 
@@ -107,8 +107,8 @@ VentureOS is the **operational launchpad and intelligent co-pilot for resource-c
 *   **Rationale for Read-Only First:** Delivers immediate, tangible value (clarity, time-saving insights) while significantly de-risking the initial technical development by avoiding complex bi-directional sync challenges.
 
 ### D. Actionable Intelligence & Ecosystem (Phased Evolution)
-*   **Phase 1 (MVP):**
-    *   **Configurable Alerts:** User-defined (or template-based) notifications (via email, Slack, etc.) triggered by thresholds or specific events across any integrated tool (e.g., "MRR dropped X% MoM," "Site Uptime Critical," "High-value lead completed onboarding funnel").
+*   **Phase 1 (Initial Focus):**
+    *   **Configurable Alerts:** The initial hypothesized focus would be on user-defined (or template-based) notifications (via email, Slack, etc.) triggered by thresholds or specific events across any integrated tool (e.g., "MRR dropped X% MoM," "Site Uptime Critical," "High-value lead completed onboarding funnel"). This phase would aim to validate core alerting functionality as part of the overall phased approach.
 *   **Phase 2 (AI-Assisted Insights):**
     *   **Descriptive/Diagnostic AI:** Natural language summaries of weekly/monthly performance. Anomaly detection (e.g., "Unusual drop in feature X usage in PostHog"). Basic forecasting (e.g., cash flow, churn, sales based on pipeline).
 *   **Phase 3+ (Longer-Term Vision):**
@@ -142,7 +142,7 @@ VentureOS is the **operational launchpad and intelligent co-pilot for resource-c
 
 ## VI. Strategic & De-risking Considerations
 
-*   **Phased & Lean Rollout:** Start with a sharply defined MVP: one core "Venture Pack" (e.g., "Lean SaaS MVP") targeting a specific initial ICP (e.g., "LLM-Empowered SaaS Builders").
+*   **Phased & Lean Rollout:** The next step involves defining an initial focused offering, envisioned as one core "Venture Pack" (e.g., "Lean SaaS MVP") targeting a specific initial ICP (e.g., "LLM-Empowered SaaS Builders"). This would represent the first phase of a lean rollout.
 *   **Prioritize Read-Only Value:** Deliver exceptional, reliable dashboards and actionable insights from aggregated data before tackling the complexities of bi-directional sync or advanced AI.
 *   **API Dependency & Management:** Acknowledge reliance on third-party SaaS APIs; requires robust error handling, monitoring for API changes, and potentially fallback strategies or alternative tool suggestions if a key API becomes problematic.
 *   **SaaS Vendor Relationships:** Explore potential for partnerships (co-marketing, technical collaboration for better API access) or affiliate/reseller models with SaaS vendors featured in "Venture Packs." Approach as a channel that brings them qualified new users.
@@ -156,9 +156,9 @@ VentureOS is the **operational launchpad and intelligent co-pilot for resource-c
 
 ## VII. Key Open Questions & Areas for Next Steps (Validation & Research)
 
-*   **MVP Definition - "Venture Pack 1.0":**
-    *   Final selection of the *exact* SaaS tools (and their specific tiers/versions) for the initial "Lean SaaS MVP" Venture Pack.
-    *   Definition of the 5-10 most critical cross-domain metrics, reports, and alerts for this MVP dashboard that would provide immediate "wow" value.
+*   **Defining Initial Focus / "Venture Pack 1.0" - Next Steps:**
+    *   Determining the *exact* SaaS tools (and their specific tiers/versions) for a potential initial "Lean SaaS MVP" Venture Pack, as part of defining this first phase.
+    *   Defining the 5-10 most critical cross-domain metrics, reports, and alerts for an initial dashboard that would aim to provide immediate "wow" value in this first hypothesized phase.
 *   **ICP Validation & WTP:**
     *   Conduct further interviews/surveys with target ICPs (LLM-empowered builders, first-time SaaS founders) to validate pain points and the proposed solution.
     *   Test willingness to pay for different envisioned service tiers and feature sets.
@@ -169,8 +169,8 @@ VentureOS is the **operational launchpad and intelligent co-pilot for resource-c
     *   Validate data aggregation performance, reliability, and the initial internal UBOM structure.
 *   **Competitive Landscape Deep Dive:**
     *   More detailed analysis of existing solutions that offer partial overlaps, to sharply define VentureOS's unique positioning and defensible advantages.
-*   **"Minimum Viable AI" Feature Set:**
-    *   Define the simplest AI-driven insight or alert feature for the MVP that delivers tangible, demonstrable value beyond basic reporting.
+*   **Initial AI Feature Set Considerations for Phased Rollout:**
+    *   Defining the simplest AI-driven insight or alert feature for an initial phase that could deliver tangible, demonstrable value beyond basic reporting, to be explored as part of the phased approach.
 *   **User Experience (UX) Design:**
     *   Conceptualize the UX for the guided onboarding, dashboard, alert configuration, and how AI insights would be presented intuitively.
 
