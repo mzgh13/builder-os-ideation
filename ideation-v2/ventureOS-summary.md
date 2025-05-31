@@ -367,9 +367,9 @@ This pillar aims to create unique, memorable, and practical learning experiences
     *   **Value:** "Fail faster," refine ideas, surface blind spots. Clearly messaged as an *aid* to, not replacement for, real research.
 
 5.  **LLM Investor Pitch & Thesis Stress-Testing:**
-    *   **Purpose:** To provide founders / builders, especially those on the VC-track, with a sophisticated way to stress-test their venture thesis and refine their investor pitches. This acts as a form of ideation validation, similar to seeking customer feedback, by simulating critical investor scrutiny.
-    *   **Functionality:** Users can input their core venture thesis, key pitch elements, or even full pitch decks. The system would utilize capable LLM thinking models, potentially configured with various "investor personas" (e.g., early-stage VC, growth equity investor, skeptical domain expert), to analyze the pitch, ask challenging questions, identify logical fallacies or weaknesses in the argument, and provide feedback on clarity, persuasiveness, and potential blind spots.
-    *   **Value:** Offers a scalable, on-demand, and confidential environment for founders to iteratively practice, receive critical feedback, and significantly strengthen their venture narrative and pitch delivery before engaging with actual investors. Helps anticipate tough questions and build resilience.
+    *   **Purpose:** Stress-test venture thesis & investor pitches via LLM-simulated investor scrutiny; ideation validation, esp. for VC-track founders but could be helpful for any builders to stress-test their ideas (more when they are more ready to talk about it to the world, but could be a tool for earlier-stage ideation iterations too).
+    *   **Functionality:** Input pitch/thesis to LLMs configured as investor personas; receive critical feedback, questions, and weakness analysis.
+    *   **Value:** Scalable, confidential practice to strengthen narrative & anticipate tough questions before real investor meetings.
 
 ### C. Community & Network: Fostering Connection, Collaboration & Opportunity
 
